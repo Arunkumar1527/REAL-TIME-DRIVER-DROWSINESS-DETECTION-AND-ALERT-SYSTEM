@@ -1,4 +1,4 @@
-# 🚗 Driver Drowsiness Detection System  
+# 🚗 Real Time Driver Drowsiness Detection and Alert System  
 
 **A real-time AI-powered system to detect driver fatigue and prevent accidents.**  
 
